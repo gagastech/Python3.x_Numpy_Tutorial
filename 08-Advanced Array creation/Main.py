@@ -41,7 +41,7 @@ print(e[0])
 
 
 
-
+#main di array dulu kite ges
 
 
 
