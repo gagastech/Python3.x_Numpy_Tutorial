@@ -23,3 +23,5 @@ y2 = jari2*np.sin(sudut)
 plt.figure(2)
 plt.plot(x2,y2)
 plt.show()
+
+#DONE ALL GUYS, TYSM !
