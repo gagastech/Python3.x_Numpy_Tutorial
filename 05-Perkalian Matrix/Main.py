@@ -19,3 +19,5 @@ print(c1)
 
 print("matrix c2:")
 print(c2)
+
+# hari hari perkalian
